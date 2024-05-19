@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">diBbO VoltVerse</string>
+
+
+        <string name="github">GitHub</string>
+        <string name="youtube">YouTube</string>
+
+
+    <string name="electricity_output">Electricity Bill Amount: RM %s</string>
+    <string name="rebate_output">Rebate amount: RM %s</string>
+    <string name="final_cost_output"> RM %s</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="programcode">ICT602</string>
+    <string name="copyright"> Copyright &#169; 2023 diBbO. All rights reserved.</string>
+    <string name="summary"> diBbO is a user-friendly app that helps you accurately calculate your monthly electricity usage and expenses in Malaysia. Managing your energy consumption has never been easier.</string>
+
+    <string name="step1"> Step 1 : This app only supports numeric input; letters are not allowed.</string>
+    <string name="step2"> Step 2 : Enter the kWh value and the rebate percentage (0-5%).</string>
+    <string name="step3"> Step 3 : Tap the Calculate button to see the result.</string>
+    <string name="step4"> Step 4 : Use the Reset button to clear and enter new values.</string>
+    <string name="tariff_image_description">Tariff rate chart</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ElectricCalculator" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#332E2E</item>
+        <item name="colorPrimaryDark">#A12F4F4F</item>
+
+
+    </style>
+
+    <style name="Theme.ElectricCalculator" parent="Base.Theme.ElectricCalculator" />
+</resources>
